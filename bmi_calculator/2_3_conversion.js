@@ -36,9 +36,36 @@ let booleanLoggedIn = Boolean(isLoggedIn);
 // console.log(typeof booleanLoggedIn);
 
 let someNumber = null;
-console.log(typeof someNumber);
+// console.log(typeof someNumber);
 let stringNumber = String(someNumber);
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
+
+let value = 3;
+let negValue = -value;
+
+// console.log(negValue);
+
+// console.log(2 + 2);
+// console.log(2 - 2);
+// console.log(2 * 2);
+// console.log(2 ** 2);
+// console.log(2 / 2);
+// console.log(2 % 3);
+
+let str1 = "Hello";
+let str2 = " Anmol";
+let str3 = str1 + str2;
+console.log(str3);
+
+// console.log("1" + 2);
+// console.log(1 + "2");
+// console.log("2" + 1 + 3);
+// console.log(1 + 2 + "2");
+
+console.log(true);
+console.log(+true);
+// console.log(true+);
+console.log(+"");
 
 
